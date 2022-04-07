@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onejayder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onejayder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Jorge E. Hernández Hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge e. hernández hernández" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorge-e-hern%C3%A1ndez-hern%C3%A1ndez-437a26236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge e. hernández hernández" height="30" width="40" /></a>
 <a href="https://instagram.com/jorge.e.hh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorge.e.hh" height="30" width="40" /></a>
 </p>
 
